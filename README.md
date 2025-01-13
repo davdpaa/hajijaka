@@ -2,7 +2,7 @@
 
 This is a simple React-based Crypto App that allows you to view and search for information on the top 100 cryptocurrencies. The app provides various functionalities, including listing the first 100 coins, searching for specific coins, refreshing the data without reloading the page, and displaying detailed information for each coin.
 
-[![protocol.land](https://arweave.net/eZp8gOeR8Yl_cyH9jJToaCrt2He1PHr0pR4o-mHbEcY)](https://protocol.land/#/repository/BijmynAcWESYHacTnaxkiG8sO3Wixi65QFaCo-MOs_A)
+[![protocol.land](https://arweave.net/eZp8gOeR8Yl_cyH9jJToaCrt2He1PHr0pR4o-mHbEcY)](https://protocol.land/#/repository/P9QQCWqsjAI_3IYCg8dPx2aY2J5TzG1UfEF63gkireQ)
 ### Table of Contents
 
 - [Getting Started](#getting-started)
